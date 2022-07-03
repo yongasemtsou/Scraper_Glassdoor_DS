@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=GmW4F6MHqqs&t=804s
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
